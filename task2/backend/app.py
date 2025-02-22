@@ -58,7 +58,7 @@ def analyse_image():
 
     file = request.files["image"]
     if not file.filename:
-        return jsonify({"error": "Empty file provided"}), 300
+        return jsonify({"error": "Empty file provided"}), 400
 
     try:
         image_data = file.read()
