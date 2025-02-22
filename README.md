@@ -35,7 +35,7 @@ You need to have docker compose installed and running on your computer. In power
 • srb_passport (Passport of Serbia)
 • svk_id (ID Card of Slovakia)
 
-![Screenshot of UI](/screenshots/app_screenshot.png)
+![Screenshot of UI](/screenshots/ui_screenshot.png)
 
 ##### Potential Improvements
 
