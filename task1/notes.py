@@ -4,9 +4,10 @@ assignment is to calculate and explain the probability of spotting a plane withi
 this observation. Provide a detailed solution outlining the reasoning behind your calculations.
 
 Consider 1 minute to be the most distrete unit of time. 
-Event(see a plane in a minute) = A
-Event(don't see a plane in a minute) = B
-P(see plane in one minute) = p
+Event(see at least one plane in a minute) = A
+Event(don't see any planes in a minute) = B
+P(A) = p
+P(B) = 1-p
 
 The probability of seeing at least one plane in 3 minutes is the sum of the probabilities of these events;
 ABB
