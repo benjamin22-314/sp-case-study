@@ -22,7 +22,7 @@ Virtual Environment - in the `model_training` directory. These instructions are 
 Have a look at the training notebook to view the model evaluation.
 
 ##### Running the App
-You need to have docker compose installed and running on your computer. In powershell/command line/bash run `docker-compose up --build`. Go to you browser and open `http://localhost/`. You will there see a UI that will allow you to upload an image of an ID and receive predictions about which country (of the countries listed below) the ID is from;
+You need to have docker compose installed and running on your computer. In powershell/command line/bash, navigate to the `task2` directory and run `docker-compose up --build`. Go to you browser and open `http://localhost/`. You will there see a UI that will allow you to upload an image of an ID and receive predictions about which country (of the countries listed below) the ID is from;
 
 • alb_id (ID Card of Albania)
 • aze_passport (Passport of Azerbaijan)
