@@ -4,7 +4,7 @@
 My answer to the puzzle.
 
 ### Task 2
-An app that allows the user to upload an image of a ID (from one of ten countries), and receive the probabilities of which country the ID is for.
+An app that allows the user to upload an image of an ID (from one of ten countries), and receive the probabilities of which country the ID is for.
 
 Here are the instructions for running the different parts.
 
